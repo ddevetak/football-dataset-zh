@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>开放足球比赛数据集与免费 API（98 个联赛 / 中超 / 半场比分 / 进球分钟数）— Football Charts</title>
+  <meta name="description" content="覆盖 44 个国家和地区 98 个足球联赛（含中超、五大联赛及次级联赛）的赛果、半场比分与每个进球的分钟数。提供 CC BY 4.0 开放 CSV 下载、中英文联赛对照表与免密钥 JSON API。" />
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; max-width: 820px; margin: 2.5rem auto; padding: 0 1.25rem; line-height: 1.7; color: #1e293b; }
+    h1 { font-size: 1.75rem; color: #0f172a; }
+    h2 { font-size: 1.25rem; margin-top: 2rem; color: #0f172a; }
+    a { color: #2563eb; font-weight: 600; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+    .card { border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem 1.2rem; background: #f8fafc; }
+    pre { background: #0f172a; color: #f8fafc; padding: 1rem; border-radius: 8px; overflow-x: auto; font-size: 0.85rem; }
+    img { max-width: 100%; border-radius: 8px; border: 1px solid #e2e8f0; }
+  </style>
+</head>
+<body>
+  <h1>开放足球比赛数据集与免费 API（98 个联赛 / 中超 / 进球分钟数）</h1>
+  <p>
+    <strong><a href="https://www.football-charts.com">Football Charts</a></strong> 提供覆盖 44 个国家和地区 <strong>98 个足球联赛</strong>（含中超、韩K联、日职联、欧洲五大联赛及各级次级联赛）的赛果、半场比分、精确进球分钟数、积分榜与赛程数据。
+  </p>
+
+  <div class="cards">
+    <div class="card">
+      <h3><a href="https://www.football-charts.com/zh-cn/dataset">📊 中文开放数据集 (CC BY 4.0)</a></h3>
+      <p>92 个联赛、76,991 场比赛的完整 CSV 下载（国内直连镜像）、90+ 分钟补时进球占比排名与可复现 Jupyter 笔记本。</p>
+    </div>
+    <div class="card">
+      <h3><a href="https://www.football-charts.com/zh-cn/developers">⚡ 中文免费 JSON API 文档</a></h3>
+      <p>无需注册即可调用（每天 300 次；免费密钥每天 5,000 次）。附 Python + Matplotlib 中超进球时间分布示例脚本。</p>
+    </div>
+    <div class="card">
+      <h3><a href="https://www.football-charts.com/zh-cn/pricing">🎓 完整历史赛季与高校学术申请</a></h3>
+      <p>2020 年至今的完整历史赛季 API 访问，高校师生与科研人员可申请 12 个月免费学术授权。</p>
+    </div>
+  </div>
+
+  <h2>核心统计：92 个足球联赛补时进球（90+ 分钟）占比排名</h2>
+  <p>
+    基于开放数据集（DOI: <code>10.5281/zenodo.23348754</code>）中 72,568 个进球的分钟数统计：韩K2联补时进球占比最高（12.0%），<strong>中超排名第 12 位（9.5%）</strong>，前 12 名中有 7 个亚洲联赛。完整排名表与 CSV 下载见 <a href="https://www.football-charts.com/zh-cn/dataset">https://www.football-charts.com/zh-cn/dataset</a>。
+  </p>
+  <p><img src="csl_2025_goal_timing.png" alt="中超 2025 赛季每 15 分钟进球分布" /></p>
+
+  <h2>相关链接</h2>
+  <ul>
+    <li><a href="https://www.football-charts.com/zh-cn/dataset">Football Charts 中文开放数据集主页</a></li>
+    <li><a href="https://www.football-charts.com/zh-cn/developers">Football Charts 中文开发者与免费 API 文档</a></li>
+    <li><a href="https://www.football-charts.com/zh-cn/pricing">Football Charts 中文 API 方案与学术免费申请</a></li>
+    <li><a href="https://github.com/ddevetak/football-dataset-zh">GitHub 仓库（含 98 个联赛中英文对照表 CSV 与 Jupyter 笔记本）</a></li>
+    <li><a href="https://github.com/ddevetak/footballcharts-mcp">Football Charts MCP 服务器（支持 Cursor / Cherry Studio / Claude）</a></li>
+  </ul>
+</body>
+</html>

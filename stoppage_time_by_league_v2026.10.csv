@@ -1,0 +1,93 @@
+﻿rank,league,name_zh,country_zh,league_name,country,season,matches,goals,goals_90plus,pct_90plus,goals_45plus,pct_45plus,minute_coverage_pct
+1,korea2,韩K2联,韩国,K League 2,South Korea,2025,273,686,82,12.0,33,4.8,100.0
+2,korea1,韩K联,韩国,K League 1,South Korea,2025,198,512,59,11.5,26,5.1,100.0
+3,india1,印超,印度,ISL,India,2025-2026,91,221,23,10.4,17,7.7,100.0
+4,kuwait,科威特超,科威特,Premier League,Kuwait,2025-2026,98,257,26,10.1,14,5.4,100.0
+5,italy3b,意丙 B组,意大利,Serie C - Group B,Italy,2025-2026,357,802,80,10.0,34,4.2,100.0
+6,premier,英超,英格兰,Premier League,England,2025-2026,380,1045,104,10.0,54,5.2,100.0
+7,thai1,泰超,泰国,Thai League 1,Thailand,2025-2026,240,642,64,10.0,40,6.2,100.0
+8,japan1,日职联,日本,J1 League,Japan,2025,380,911,90,9.9,37,4.1,100.0
+9,primera2,西丙 第2组,西班牙,Primera RFEF - Group 2,Spain,2025-2026,380,856,84,9.8,49,5.7,100.0
+10,egypt,埃及超,埃及,Premier League,Egypt,2025-2026,322,651,63,9.7,38,5.8,100.0
+11,morocco,摩洛哥甲,摩洛哥,Botola Pro,Morocco,2025-2026,248,539,52,9.6,26,4.8,100.0
+12,china,中超,中国,Super League,China,2025,240,771,73,9.5,33,4.3,100.0
+13,saudi2,沙特甲,沙特阿拉伯,Division 1,Saudi Arabia,2025-2026,307,905,83,9.2,49,5.4,99.3
+14,portugal2,葡甲,葡萄牙,Liga Portugal 2,Portugal,2025-2026,310,751,68,9.1,38,5.1,100.0
+15,brazil2,巴乙,巴西,Serie B Superbet,Brazil,2025,380,843,74,8.8,46,5.5,100.0
+16,spain1,西甲,西班牙,La Liga,Spain,2025-2026,380,1024,89,8.7,50,4.9,100.0
+17,sweden2,瑞典甲,瑞典,Superettan,Sweden,2025,240,686,60,8.7,35,5.1,100.0
+18,france1,法甲,法国,Ligue 1,France,2025-2026,309,873,75,8.6,47,5.4,100.0
+19,south,英格兰国家联赛南区,英格兰,National League South,England,2025-2026,556,1590,136,8.6,77,4.8,100.0
+20,italy3a,意丙 A组,意大利,Serie C - Group A,Italy,2025-2026,380,889,76,8.5,47,5.3,100.0
+21,japan2,日职乙,日本,J2 League,Japan,2025,380,934,79,8.5,49,5.2,100.0
+22,primera1,西丙 第1组,西班牙,Primera RFEF - Group 1,Spain,2025-2026,398,974,83,8.5,48,4.9,100.0
+23,eng2,英乙,英格兰,League Two,England,2025-2026,556,1430,118,8.3,69,4.8,100.0
+24,turkey1,土超,土耳其,Super Lig,Turkey,2025-2026,306,812,67,8.3,44,5.4,100.0
+25,austria1,奥甲,奥地利,Bundesliga,Austria,2025-2026,195,527,43,8.2,22,4.2,100.0
+26,national,英格兰国家联赛,英格兰,National League,England,2025-2026,554,1614,133,8.2,70,4.3,99.8
+27,france2,法乙,法国,Ligue 2,France,2025-2026,309,783,62,7.9,30,3.8,100.0
+28,turkey2,土甲,土耳其,1. Lig,Turkey,2025-2026,384,1120,88,7.9,62,5.5,99.7
+29,belgium1,比甲,比利时,Jupiler Pro League,Belgium,2025-2026,319,856,67,7.8,45,5.3,100.0
+30,segunda3,西丁 第3组,西班牙,Segunda Division B - Group 3,Spain,2025-2026,306,742,58,7.8,33,4.4,100.0
+31,portugal1,葡超,葡萄牙,Liga Portugal,Portugal,2025-2026,308,823,63,7.7,45,5.5,100.0
+32,bulgaria1,保甲,保加利亚,Parva liga,Bulgaria,2025-2026,293,672,51,7.6,37,5.5,99.4
+33,germany1,德甲,德国,Bundesliga,Germany,2025-2026,307,990,75,7.6,50,5.1,100.0
+34,germany2,德乙,德国,2. Bundesliga,Germany,2025-2026,309,900,68,7.6,44,4.9,100.0
+35,italy1,意甲,意大利,Serie A,Italy,2025-2026,380,922,70,7.6,52,5.6,100.0
+36,saudi1,沙特联,沙特阿拉伯,Saudi Professional League,Saudi Arabia,2025-2026,314,943,72,7.6,37,3.9,100.0
+37,spain2,西乙,西班牙,La Liga2,Spain,2025-2026,509,1335,102,7.6,51,3.8,100.0
+38,australia,澳超,澳大利亚,A-League,Australia,2025-2026,161,456,34,7.5,20,4.4,100.0
+39,brazil1,巴甲,巴西,Serie A Betano,Brazil,2025,380,959,72,7.5,54,5.6,100.0
+40,north,英格兰国家联赛北区,英格兰,National League North,England,2025-2026,560,1702,128,7.5,75,4.4,99.7
+41,norway,挪超,挪威,Eliteserien,Norway,2025,240,759,57,7.5,42,5.5,99.6
+42,segunda2,西丁 第2组,西班牙,Segunda Division B - Group 2,Spain,2025-2026,306,769,58,7.5,33,4.3,100.0
+43,swiss2,瑞士甲,瑞士,Challenge League,Switzerland,2025-2026,186,566,42,7.4,19,3.4,100.0
+44,eng1,英甲,英格兰,League One,England,2025-2026,557,1462,106,7.3,62,4.2,100.0
+45,scot-premier,苏超,苏格兰,Premiership,Scotland,2025-2026,234,643,47,7.3,28,4.4,100.0
+46,algir1,阿尔及利亚甲,阿尔及利亚,Ligue 1,Algeria,2025-2026,240,544,39,7.2,29,5.3,100.0
+47,azer,阿塞拜疆超,阿塞拜疆,Premier League,Azerbaijan,2025-2026,200,512,37,7.2,25,4.9,99.4
+48,denmark1,丹超,丹麦,Superliga,Denmark,2025-2026,192,595,43,7.2,24,4.0,100.0
+49,segunda1,西丁 第1组,西班牙,Segunda Division B - Group 1,Spain,2025-2026,306,773,56,7.2,29,3.8,99.6
+50,greece1,希超,希腊,Super League,Greece,2025-2026,246,624,44,7.1,26,4.2,100.0
+51,poland1,波兰超,波兰,Ekstraklasa,Poland,2025-2026,315,866,61,7.0,45,5.2,100.0
+52,holland2,荷乙,荷兰,Eerste Divisie,Netherlands,2025-2026,390,1241,86,6.9,51,4.1,100.0
+53,lithuania,立陶宛甲,立陶宛,A Lyga,Lithuania,2025,180,479,33,6.9,22,4.6,100.0
+54,segunda4,西丁 第4组,西班牙,Segunda Division B - Group 4,Spain,2025-2026,323,738,51,6.9,33,4.5,100.0
+55,slovenia1,斯洛文尼亚甲,斯洛文尼亚,Prva liga,Slovenia,2025-2026,164,498,34,6.8,17,3.4,99.4
+56,finland1,芬超,芬兰,Veikkausliiga,Finland,2025,132,433,29,6.7,17,3.9,100.0
+57,germany3,德丙,德国,3. Liga,Germany,2025-2026,380,1219,82,6.7,53,4.3,100.0
+58,italy2,意乙,意大利,Serie B,Italy,2025-2026,390,993,67,6.7,46,4.6,100.0
+59,swiss1,瑞士超,瑞士,Super League,Switzerland,2025-2026,229,750,50,6.7,20,2.7,100.0
+60,germany-north,德国北部地区联赛,德国,Regionalliga North,Germany,2025-2026,317,1152,76,6.6,60,5.2,100.0
+61,ireland1,爱超,爱尔兰,Premier Division,Ireland,2025,180,437,29,6.6,26,5.9,100.0
+62,france3,法丙,法国,National,France,2025-2026,273,657,42,6.4,31,4.7,99.5
+63,holland3,荷丙,荷兰,Tweede Divisie,Netherlands,2025-2026,320,1063,68,6.4,55,5.2,100.0
+64,ireland2,爱甲,爱尔兰,Division 1,Ireland,2025,179,499,32,6.4,14,2.8,99.4
+65,sweden1,瑞典超,瑞典,Allsvenskan,Sweden,2025,240,683,44,6.4,28,4.1,100.0
+66,segunda5,西丁 第5组,西班牙,Segunda Division B - Group 5,Spain,2025-2026,306,783,49,6.3,28,3.6,100.0
+67,holland1,荷甲,荷兰,Eredivisie,Netherlands,2025-2026,318,1006,62,6.2,58,5.8,100.0
+68,serbia1,塞尔维亚超,塞尔维亚,Serbia,Serbia,2025-2026,297,788,48,6.1,37,4.7,99.7
+69,wgermany1,德国女甲,德国,Frauen-Bundesliga,Germany,2025-2026,182,627,38,6.1,34,5.4,100.0
+70,latvia,拉脱维亚超,拉脱维亚,Virsliga,Latvia,2025,182,535,32,6.0,28,5.2,100.0
+71,poland2,波兰甲,波兰,Division 1,Poland,2025-2026,327,985,59,6.0,48,4.9,99.7
+72,cha,英冠,英格兰,Championship,England,2025-2026,558,1441,85,5.9,75,5.2,99.9
+73,finland2,芬甲,芬兰,Ykkonen,Finland,2025,135,443,26,5.9,16,3.6,100.0
+74,russia,俄超,俄罗斯,Premier League,Russia,2025-2026,244,615,36,5.9,33,5.4,100.0
+75,greece2,希乙,希腊,Super League 2,Greece,2025-2026,265,607,35,5.8,24,4.0,100.0
+76,italy19,意大利青年联赛,意大利,Primavera 1,Italy,2025-2026,382,1064,62,5.8,46,4.3,101.2
+77,romania1,罗甲,罗马尼亚,Liga 1,Romania,2025-2026,347,874,51,5.8,32,3.7,100.0
+78,hungary1,匈甲,匈牙利,NB I.,Hungary,2025-2026,198,594,34,5.7,29,4.9,100.0
+79,denmark2,丹甲,丹麦,1st Division,Denmark,2025-2026,192,538,30,5.6,22,4.1,100.0
+80,estonia,爱沙尼亚甲,爱沙尼亚,Meistriliiga,Estonia,2025,180,572,32,5.6,28,4.9,100.0
+81,czech2,捷乙,捷克,ChNL,Czech Republic,2025-2026,240,643,35,5.4,22,3.4,100.0
+82,austria2,奥乙,奥地利,2. Liga,Austria,2025-2026,223,596,31,5.2,32,5.4,99.5
+83,scot2,苏乙,苏格兰,League Two,Scotland,2025-2026,188,552,28,5.1,24,4.3,100.0
+84,wfrance1,法国女甲,法国,Division 1 Women,France,2025-2026,135,398,20,5.0,24,6.0,97.1
+85,czech1,捷甲,捷克,Chance Liga,Czech Republic,2025-2026,278,730,35,4.8,24,3.3,99.6
+86,wbelgium1,比利时女超,比利时,Super League Women,Belgium,2025-2026,108,324,15,4.6,8,2.5,100.0
+87,czech3b,捷丙 B组,捷克,3. CFL - Group B,Czech Republic,2025-2026,272,912,41,4.5,36,3.9,100.0
+88,czech3a,捷丙 A组,捷克,3. CFL - Group A,Czech Republic,2025-2026,272,869,38,4.4,32,3.7,100.0
+89,scot-champ,苏冠,苏格兰,Championship,Scotland,2025-2026,189,455,20,4.4,22,4.8,100.0
+90,scot1,苏甲,苏格兰,League One,Scotland,2025-2026,190,506,22,4.3,18,3.6,100.0
+91,wsweden,瑞典女超,瑞典,Allsvenskan Women,Sweden,2025,182,606,24,4.0,36,5.9,100.0
+92,hungary2,匈乙,匈牙利,Merkantil Bank Liga,Hungary,2025-2026,240,602,22,3.7,29,4.8,100.0
